@@ -20,7 +20,7 @@ public class StudentPresenter {
             view.onSuccess(students);
         }
         else {
-            view.onFailure("error: Data Nulll");
+            view.onFailure("error: Data Null");
         }
 
     }
